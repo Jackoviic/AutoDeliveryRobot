@@ -17,6 +17,7 @@
     <EditText
         android:id="@+id/etPhoneInput"
         android:hint="+20..."
+        android:textColorHint="@color/text_secondary"
         android:inputType="phone"
         android:background="@drawable/edit_field_bg"
         android:textColor="@color/text_primary"
